@@ -2,7 +2,7 @@
 <head>
 <title>
 Yaya's palace of fun!
-</title
+</title>
 </head>
 <body>
 <H1>
