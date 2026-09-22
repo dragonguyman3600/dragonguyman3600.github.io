@@ -1,8 +1,6 @@
 <html>
 <head>
-<title>
 Yaya's palace of fun!
-</title>
 </head>
 <body>
 <H1>
